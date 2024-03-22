@@ -11,43 +11,43 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['527299350963', '👑 Monovan - Creador 👑', true],
-  ['527299350963', '💫 Monovan - Collaborator 1 💫', true],
-  ['527299350963', '💫 Monovan - Collaborator 2 💫', true],
-  ['527299350963', '💫 Monovan - Collaborator 3 💫', true],
-  ['527299350963', '💫 Monovan - Collaborator 4 💫', true],
-  ['527229350963', '💫 Monovan - Collaborator 5 💫', true],
-  ['527299350963', '💫 Monovan - Collaborator 6 💫', true],
-  ['527299350963', '💫 Monovan - Rey Endymion 💫', false],
-  ['527299350963', '💫 Monovan - Collaborator 8 💫', true],
-  ['527299350963','💫 Monovan - Tester Fabri115💫', true],
+  ['524422707745', '👑 Diana Shop - Creador 👑', true],
+  ['524422707745', '💫 Diana Shop - Collaborator 1 💫', true],
+  ['524422707745', '💫 Diana Shop - Collaborator 2 💫', true],
+  ['524422707745', '💫 Diana Shop - Collaborator 3 💫', true],
+  ['524422707745', '💫 Diana Shop - Collaborator 4 💫', true],
+  ['524422707745', '💫 Diana Shop - Collaborator 5 💫', true],
+  ['524422707745', '💫 Diana Shop - Collaborator 6 💫', true],
+  ['524422707745', '💫 Diana Shop - Rey Endymion 💫', false],
+  ['524422707745', '💫 Diana Shop - Collaborator 8 💫', true],
+  ['524422707745','💫 Diana Shop - Tester Fabri115💫', true],
+  ['524422707745'],
+  ['524422707745'],
+  ['524422707745'],
   ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'], 
-  ['527299350963'],  
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'],
-  ['527299350963'], 
-  ['527299350963'], 
-  ['527299350963'],
-  ['527299350963']
+  ['524422707745'],
+  ['524422707745'],
+  ['524422707745'],
+  ['524422707745'], 
+  ['524422707745'],  
+  ['524422707745'],
+  ['524422707745'],
+  ['524422707745'],
+  ['524422707745'], 
+  ['524422707745'], 
+  ['524422707745'],
+  ['524422707745']
 ];
 
-global.suittag = ['527299350963'];
-global.prems = ['527299350963'];
+global.suittag = ['524422707745'];
+global.prems = ['524422707745'];
 
-global.packname = 'Monovan';
-global.author = 'Monovan';
-global.wm = 'Monovan ';
-global.titulowm = 'Monovan ';
-global.titulowm2 = `Monovan `
-global.igfg = 'Monovan ';
+global.packname = 'Diana Shop';
+global.author = 'Diana Shop';
+global.wm = 'Diana Shop ';
+global.titulowm = 'Diana Shop ';
+global.titulowm2 = `Diana Shop `
+global.igfg = 'Diana Shop ';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -69,9 +69,9 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nMonovan-Bot`;
-global.gt = 'Monovan-Bot ';
-global.mysticbot = 'Monovan-Bot ';
-global.md = ' ';
+global.gt = 'Diana-Bot ';
+global.mysticbot = 'Diana-Bot ';
+global.md = '524422707745';
 global.mysticbot = ' ';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
